@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Tetris/Tetris.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tetris/TetrisBoard.cs">
+    <Files>
+      <File FileName="Tetris/Game1.cs" Line="1" Column="1" />
+      <File FileName="Tetris/TetrisBoard.cs" Line="19" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
