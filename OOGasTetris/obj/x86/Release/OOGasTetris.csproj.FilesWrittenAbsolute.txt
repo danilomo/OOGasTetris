@@ -1,0 +1,14 @@
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Release/OOGasTetris.Icon.ico
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/OpenTK.dll.config
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/OOGasTetris.exe.mdb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/OOGasTetris.exe
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Release/OOGasTetris.exe
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Release/OOGasTetris.exe.mdb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/MonoGame.Framework.dll
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/OpenTK.dll
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/NVorbis.dll
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/Content/borderhorizontal.xnb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/Content/bordervertical.xnb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/Content/bujaum.xnb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Release/Content/oogas.xnb

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="OOGasTetris/OOGasTetris.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOGasTetris/Game1.cs">
+    <Files>
+      <File FileName="OOGasTetris/Program.cs" Line="16" Column="22" />
+      <File FileName="OOGasTetris/TetrisBoard.cs" Line="9" Column="22" />
+      <File FileName="OOGasTetris/Tetromino.cs" Line="4" Column="22" />
+      <File FileName="OOGasTetris/TetrominoFactory.cs" Line="4" Column="22" />
+      <File FileName="OOGasTetris/Game1.cs" Line="12" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

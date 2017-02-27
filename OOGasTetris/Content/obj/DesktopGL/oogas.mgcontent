@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/home/danilo/Desktop/OOGasTetris/OOGasTetris/Content/oogas.wav</SourceFile>
+  <SourceTime>2017-02-27T02:22:29-08:00</SourceTime>
+  <DestFile>/home/danilo/Desktop/OOGasTetris/OOGasTetris/Content/bin/DesktopGL/oogas.xnb</DestFile>
+  <DestTime>2017-02-27T03:33:27-08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-02-19T00:21:28-08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-02-19T00:21:28-08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

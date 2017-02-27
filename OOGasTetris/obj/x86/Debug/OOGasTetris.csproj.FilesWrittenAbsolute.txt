@@ -1,0 +1,10 @@
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Debug/OOGasTetris.Icon.ico
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/OpenTK.dll.config
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/OOGasTetris.exe.mdb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/OOGasTetris.exe
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Debug/OOGasTetris.exe
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/obj/x86/Debug/OOGasTetris.exe.mdb
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/MonoGame.Framework.dll
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/OpenTK.dll
+/home/danilo/Desktop/OOGasTetris/OOGasTetris/bin/Debug/NVorbis.dll
